@@ -38,3 +38,15 @@ button {
   font-weight: bold;
   background: #03dac5;
 }
+
+.digits{
+  display: flex;
+  justify-content: center;
+}
+
+.digits input {
+  font-size: 1.3em;
+  width: 25px;
+  margin : 10px;
+  text-align: center;
+}
