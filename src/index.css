@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #f5f5dc;
+}
+
+.card {
+  background-color: #6200ee;
+  display: flex;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px 12px 15px 10px rgba(0,100,220,0.1);
+}
+
+h2{
+  color: whitesmoke;
+}
+
+input{
+  padding: 8px 16px;
+  margin: 8px;
+  border: none;
+}
+
+button {
+  padding: 8px 16px;
+  margin-top: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  background: #03dac5;
+}
