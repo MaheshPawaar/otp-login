@@ -8,3 +8,6 @@ Hint: you have seen Login via OTP on some sort of site like: hotstar etc. you ha
 Note: suppose that if user enter first digit of OTP, so cursor will automatically jump to the second digit.
 
 ## Demo
+
+https://github.com/MaheshPawaar/otp-login/assets/32674489/bd4aff61-a649-4232-8715-7271ae3380e6
+
